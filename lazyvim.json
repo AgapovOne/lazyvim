@@ -1,0 +1,13 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.mini-surround",
+    "lazyvim.plugins.extras.coding.yanky",
+    "lazyvim.plugins.extras.lang.markdown",
+    "lazyvim.plugins.extras.lang.ruby",
+    "lazyvim.plugins.extras.lang.yaml"
+  ],
+  "news": {
+    "NEWS.md": "5204"
+  },
+  "version": 6
+}
